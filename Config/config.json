@@ -1,0 +1,7 @@
+{
+  "main_url": "https://demoqa.com/",
+  "browser": "Chrome",
+  "options": "--incognito",
+  "page_load_strategy": "eager",
+  "timeout": 5
+}

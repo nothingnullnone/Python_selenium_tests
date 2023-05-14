@@ -1,0 +1,9 @@
+{
+  "text_alert_clicked" : "You clicked a button",
+  "text_alert_confirm" : "Do you confirm action?",
+  "text_alert_prompt" : "Please enter your name",
+  "text_label_ok" : "You selected Ok",
+  "text_label_entered" : "You entered ",
+  "text_min_length" : 10,
+  "text_max_length" : 20
+}
